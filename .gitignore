@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 venv/
 env/
-.env
 
 # Web
 node_modules/
@@ -12,3 +11,4 @@ node_modules/
 dist/
 build/
 .vercel/
+config.bat
